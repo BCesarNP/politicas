@@ -1,33 +1,7 @@
-# politicas
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Política de Privacidade - CorpTV - TABs Controller</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            background-color: #f7f7f7;
-            color: #333;
-        }
-        h1, h2 {
-            color: #005a9c;
-        }
-        .container {
-            background: #fff;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            max-width: 900px;
-            margin: auto;
-        }
-        a {
-            color: #007acc;
-        }
-    </style>
+    
 </head>
 <body>
     <div class="container">
